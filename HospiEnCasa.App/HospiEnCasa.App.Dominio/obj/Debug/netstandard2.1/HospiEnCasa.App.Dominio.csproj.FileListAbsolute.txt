@@ -1,0 +1,9 @@
+F:\Programacion\Paginas web\EjemploTIC\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.deps.json
+F:\Programacion\Paginas web\EjemploTIC\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+F:\Programacion\Paginas web\EjemploTIC\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+F:\Programacion\Paginas web\EjemploTIC\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+F:\Programacion\Paginas web\EjemploTIC\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+F:\Programacion\Paginas web\EjemploTIC\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+F:\Programacion\Paginas web\EjemploTIC\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+F:\Programacion\Paginas web\EjemploTIC\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+F:\Programacion\Paginas web\EjemploTIC\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
